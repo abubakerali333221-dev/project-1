@@ -1,0 +1,8 @@
+{
+  "name": "1.2 - Merchant Marketing Assistant",
+  "description": "An AI-powered marketing platform for merchants to manage event reminders, generate visual content, and automate social media campaigns.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
